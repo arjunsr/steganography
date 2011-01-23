@@ -1,0 +1,5 @@
+This tree contains the source code to the project steganography we did as our mini project during our S5.
+It inserts a message to picture you want. The message is encrypted using RSA encryption algorithm.
+Make sure the picture is large enought to accomodate the message. Its completely written in java.
+
+As my hobby i will be soon re-writing it in Qt.
